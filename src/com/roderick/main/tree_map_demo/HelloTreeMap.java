@@ -1,4 +1,4 @@
-package com.roderick.main.treeMapDemo;
+package com.roderick.main.tree_map_demo;
 
 import java.util.TreeMap;
 
